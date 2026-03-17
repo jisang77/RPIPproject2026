@@ -9,5 +9,11 @@
 - 2차 중간 보고: 2026.12.30
 
 프로젝트 이름: jisang77 protocol 
-팀인원: 3명
-팀명: hjs200212
+팀 인원: 3명
+팀 명: andy, terry, boss
+
+팀장 할 일: andy
+
+소프트웨어 담당: terry
+
+하드웨어 담당: boss
